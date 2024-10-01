@@ -8,3 +8,6 @@
  Also, there is code for how to split the dataset in train and test datasets. 
  How to save a model using two libraries i.e. Pickle and Joblib. 
  Feature Engineering by removing outliers using multiple techniques.
+
+ ## Basics of Deep learning using pytorch, tensorflow and keras
+ 1. Buliding a simple neural network for the prediction of mnist digits recognition
