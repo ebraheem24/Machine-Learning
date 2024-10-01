@@ -1,4 +1,4 @@
-# Machine-Learning
+# **Machine-Learning**
 
 ## Basics of Machine Learning
  In this Respository, there are codes for multiple basic ML algorithms along with basic data cleansing.
